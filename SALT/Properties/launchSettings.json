@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SALT": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Code.st\"",
+      "workingDirectory": "C:\\Users\\Jase\\source\\repos\\SALT\\SALT"
+    }
+  }
+}
